@@ -23,9 +23,6 @@ section {
         width: 100vw;
         height: 100vh;
         background: linear-gradient(#ececec70, #515f7b);
-        // clip-path: circle(40% at 75% bottom);
-        // clip-path: polygon(80% 0%, 83% 0%, 37% 48%, 100% 100%, 33% 100%, 21% 50%);
-        // clip-path: polygon(0% 0%, 0% 0%, 100% 50%, 0% 100%, 0% 100%, 66.6% 51%);
         clip-path: polygon(94.7% 0%, 98.4% 0%, 0% 96%, 0% 91%);
     }
     
@@ -37,8 +34,6 @@ section {
         width: 100vw;
         height: 100vh;
         background: linear-gradient(#515f7b, #ececec70);
-        // clip-path: circle(40% at 25% top);
-        // clip-path: polygon(20% 0%, 17% 0%, 63% 52%, 54% 100%, 33% 100%, 59% 52.3%);
         clip-path: polygon(100% 9.5%, 100% 4.3%, 1.4% 100%, 5.6% 100%);
     }
 
